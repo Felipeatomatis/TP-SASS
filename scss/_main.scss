@@ -6,12 +6,12 @@
 }
 
 .btn {
-    color: #fff;
+    color: map-get($colors, color-white);
     border: 1px solid #fff;
 }
     .btn:hover,
     .btn:focus {
-    color: #000;
+    color: map-get($colors, color-black);
     background-color: #fff;
     border: 1px solid #000;
 }
