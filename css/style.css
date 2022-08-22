@@ -31,13 +31,13 @@
 }
 
 .btn {
-  color: #fff;
+  color: #f7f7f7;
   border: 1px solid #fff;
 }
 
 .btn:hover,
 .btn:focus {
-  color: #000;
+  color: #131826;
   background-color: #fff;
   border: 1px solid #000;
 }
